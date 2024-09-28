@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Submission Akhir Aplikasi Android Sederhana</string>
+    <string name="title_activity_halaman_detail">HalamanDetailActivity</string>
+    <string name="title_activity_halaman_about">HalamanAboutActivity</string>
+    <string name="title_activity_hahaha">hahaha</string>
+</resources>
